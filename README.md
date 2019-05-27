@@ -27,7 +27,7 @@ devtools::install_github("Jesse-Islam/rpkg")
 Example
 -------
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how to solve a common problem: \#like how to get litty
 
 ``` r
 library(rpkg)

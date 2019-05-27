@@ -4,7 +4,7 @@ rpkg
 ====
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/Jesse-Islam/rpkg.svg?branch=master)](https://travis-ci.org/Jesse-Islam/rpkg) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Jesse-Islam/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/Jesse-Islam/rpkg) <!-- badges: end -->
+[![Travis build status](https://travis-ci.org/Jesse-Islam/rpkg.svg?branch=master)](https://travis-ci.org/Jesse-Islam/rpkg) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Jesse-Islam/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/Jesse-Islam/rpkg) [![Codecov test coverage](https://codecov.io/gh/Jesse-Islam/rpkg/branch/master/graph/badge.svg)](https://codecov.io/gh/Jesse-Islam/rpkg?branch=master) <!-- badges: end -->
 
 The goal of rpkg is to ...
 

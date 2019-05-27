@@ -18,13 +18,7 @@
 #' @importFrom lme4 glmer
 #' @importFrom sjPlot tab_model
 fit_models <- function(formula, data) {
-  tj=NULL
-  fit.glmm <- lme4::glmer(formula, 
-                          data = data, 
-                          family = "poisson", 
-                          offset = log(tj))
-  
-  sjPlot::tab_model(fit.glmm)
+return(data$tj)
   
 }
 #analyzes the data and outputs a summary of the results in the form of an HTML table.

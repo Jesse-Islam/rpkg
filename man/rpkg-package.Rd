@@ -9,12 +9,7 @@
 gets lit.
 }
 \author{
-\strong{Maintainer}: 
-
-Other contributors:
-\itemize{
-  \item Jesse Islam \email{jesse.islam@mail.mcgill.ca} (itssa vibe)
-}
+\strong{Maintainer}: Jesse Islam \email{jesse.islam@mail.mcgill.ca} (itssa vibe)
 
 }
 \keyword{internal}

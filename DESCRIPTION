@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person(given = "Jesse",
            family = "Islam",
-           role = c("boss", "boi"),
+           role = c("aut", "cre"),
            email = "jesse.islam@mail.mcgill.ca",
            comment = c(ORCID = "itssa vibe"))
 Description: gets lit.

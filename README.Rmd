@@ -15,6 +15,7 @@ knitr::opts_chunk$set(
 # rpkg
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/Jesse-Islam/rpkg.svg?branch=master)](https://travis-ci.org/Jesse-Islam/rpkg)
 <!-- badges: end -->
 
 The goal of rpkg is to ...

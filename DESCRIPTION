@@ -2,12 +2,15 @@ Package: rpkg
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person(given = "Jesse",
+           family = "Islam",
+           role = c("boss", "boi"),
+           email = "jesse.islam@mail.mcgill.ca",
+           comment = c(ORCID = "itssa vibe"))
+Description: gets lit.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1

@@ -26,3 +26,6 @@ usethis::use_testthat()
 
 # this will setup the folders needed for the data and raw-data
 usethis::use_data_raw()
+#document an R function
+pacman::p_load(sinew)
+sinew::makeOxyFile("R/fit_models.R")

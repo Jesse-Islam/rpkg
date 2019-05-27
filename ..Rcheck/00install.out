@@ -1,0 +1,11 @@
+* installing *source* package 'rpkg' ...
+** using staged installation
+Error : Invalid DESCRIPTION file
+
+Malformed maintainer field.
+
+See section 'The DESCRIPTION file' in the 'Writing R Extensions'
+manual.
+
+ERROR: installing package DESCRIPTION failed for package 'rpkg'
+* removing 'C:/Users/J/Documents/github/rpkg/..Rcheck/rpkg'

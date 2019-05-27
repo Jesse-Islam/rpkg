@@ -8,9 +8,16 @@ Authors@R:
            email = "jesse.islam@mail.mcgill.ca",
            comment = c(ORCID = "itssa vibe"))
 Description: gets lit.
+Author: Joe Developer [aut, cre],
+  Pat Developer [aut],
+  A. User [ctb]
+Maintainer:Joe Developer <Joe.Developer@some.domain.net>
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
 RoxygenNote: 6.1.1
+Imports: 
+    lme4,
+    sjPlot

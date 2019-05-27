@@ -29,3 +29,9 @@ usethis::use_data_raw()
 #document an R function
 pacman::p_load(sinew)
 sinew::makeOxyFile("R/fit_models.R")
+
+#add package to import or suggests list
+usethis::use_package("lme4", type = "Imports")
+usethis::use_package("lme4", type = "Suggests")
+#check if package is good to go
+devtools::check()

@@ -1,0 +1,29 @@
+* using log directory 'C:/Users/J/Documents/github/rpkg/..Rcheck'
+* using R version 3.6.0 (2019-04-26)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: ISO8859-1
+* checking for file './DESCRIPTION' ... OK
+* this is package 'rpkg' version '0.0.0.9000'
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for .dll and .exe files ... OK
+* checking for hidden files and directories ... NOTE
+Found the following hidden files and directories:
+  .RData
+  .Rhistory
+  .gitignore
+  .travis.yml
+  ..Rcheck
+  .Rproj.user
+  .git
+These were most likely included in error. See section 'Package
+structure' in the 'Writing R Extensions' manual.
+* checking for portable file names ... OK
+* checking whether package 'rpkg' can be installed ... ERROR
+Installation failed.
+See 'C:/Users/J/Documents/github/rpkg/..Rcheck/00install.out' for details.
+* DONE
+Status: 1 ERROR, 1 NOTE

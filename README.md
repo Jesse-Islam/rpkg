@@ -4,7 +4,7 @@ rpkg
 ====
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/Jesse-Islam/rpkg.svg?branch=master)](https://travis-ci.org/Jesse-Islam/rpkg) <!-- badges: end -->
+[![Travis build status](https://travis-ci.org/Jesse-Islam/rpkg.svg?branch=master)](https://travis-ci.org/Jesse-Islam/rpkg) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Jesse-Islam/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/Jesse-Islam/rpkg) <!-- badges: end -->
 
 The goal of rpkg is to ...
 
@@ -31,6 +31,11 @@ This is a basic example which shows you how to solve a common problem: \#like ho
 
 ``` r
 library(rpkg)
+#> Registered S3 methods overwritten by 'ggplot2':
+#>   method         from 
+#>   [.quosures     rlang
+#>   c.quosures     rlang
+#>   print.quosures rlang
 ## basic example code
 ```
 
